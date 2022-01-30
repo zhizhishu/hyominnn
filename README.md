@@ -1,10 +1,7 @@
 ## 重要通知
 ### 落霞与孤鹜齐飞,秋水共长天一色。
 
-
 #### [交流频道](https://t.me/pandaqx)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shufflewzc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -12,9 +9,6 @@
 
 【青龙拉库命令】
 ql repo https://github.com.cnpmjs.org/Hyominn/hyominnn.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendNotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql|JDSignValidator"
-
-【青龙使用说明】
-https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 
 
 ## Special statement:
@@ -50,5 +44,6 @@ https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 * [@Smiek2121](https://github.com/smiek2121/scripts) 「呱呱」
 * [@star261](https://github.com/star261/jd) 
 
-# 欢迎Pull Request！
+
+
 # hyominnn
